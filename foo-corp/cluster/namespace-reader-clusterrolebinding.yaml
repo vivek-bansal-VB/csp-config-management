@@ -7,7 +7,7 @@ subjects:
   name: cheryl@foo-corp.com
   apiGroup: rbac.authorization.k8s.io
 - kind: User
-  name: site-appliance-2@foo-corp.com
+  name: vivek@foo-corp.com
   apiGroup: rbac.authorization.k8s.io
 roleRef:
   kind: ClusterRole
